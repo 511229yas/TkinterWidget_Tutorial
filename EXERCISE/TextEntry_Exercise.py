@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 
 window = tk.Tk()
-window.title('tkinter Text Entry Widget')
+window.title('SIMPLE GRADING SYSTEM')
 window.geometry('400x400')
 
 string_var = tk.StringVar()

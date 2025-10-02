@@ -3,11 +3,11 @@ from tkinter import ttk
 
 # This section creates the tkinter Window and adds the required elements to it
 window = tk.Tk()
-window.title('Tkinter Lavel Widget')
+window.title('SIMPLE GRADING SYSTEM')
 window.geometry('400x400')
 
 #This is our label
-output_label = ttk.Label(master = window, text = 'This is my label', font = 'Calibri 24 bold')
+output_label = ttk.Label(master = window, text = 'Enter Student Grade', font = 'Calibri 24 bold')
 
 #Pack elements in frames ready to push onto form/window
 output_label.pack();
