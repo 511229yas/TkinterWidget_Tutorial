@@ -22,7 +22,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="EXERCISE\Button_Exercise.py" />
+    <Compile Include="EXERCISE\Checkbox_Excercise.py" />
     <Compile Include="EXERCISE\Label_Exercise.py" />
+    <Compile Include="EXERCISE\RadioButton_Excercise.py" />
+    <Compile Include="EXERCISE\Spinbox_Excercise.py" />
     <Compile Include="EXERCISE\TextEntry_Exercise.py" />
     <Compile Include="TkinterWidget_Tutorial.py" />
   </ItemGroup>
