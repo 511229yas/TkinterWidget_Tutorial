@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>67c63b35-cd3a-4ffc-8d96-79c25b9fc951</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>TkinterWidget_Tutorial.py</StartupFile>
+    <StartupFile>EXERCISE\Combobox_Excercise.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,7 @@
   <ItemGroup>
     <Compile Include="EXERCISE\Button_Exercise.py" />
     <Compile Include="EXERCISE\Checkbox_Excercise.py" />
+    <Compile Include="EXERCISE\Combobox_Excercise.py" />
     <Compile Include="EXERCISE\Label_Exercise.py" />
     <Compile Include="EXERCISE\RadioButton_Excercise.py" />
     <Compile Include="EXERCISE\Spinbox_Excercise.py" />
